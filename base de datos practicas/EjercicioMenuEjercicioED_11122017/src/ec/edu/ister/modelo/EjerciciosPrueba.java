@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Andres
+ * 
  */
 public class EjerciciosPrueba {
     private Integer arrayTemperaturas[];
